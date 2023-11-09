@@ -1,0 +1,6 @@
+english western recommendation_letter.txt recommendation_letter_w.txt
+english kaomoji recommendation_letter.txt recommendation_letter_k.txt
+kaomoji english recommendation_letter_k_orig.txt newletter.txt
+kaomoji english text_to_friend_k.txt text_to_friend.txt
+english kaomoji supercool.txt supercool_k.txt
+english western supercool.txt supercool_w.txt
